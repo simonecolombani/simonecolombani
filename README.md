@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-colombani)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sc.simonecolombani@gmail.com)
 
-**Senior Software Developer @ Oversonic Robotics** | Platform Engineering, AI/ML & Robotics Fleet Management  
-Erba, Lombardia 🇮🇹 | [simonecolombani](https://github.com/simonecolombani)
+**Senior Software Developer @ Oversonic Robotics** | Platform Engineering & AI/ML 
+Erba, Italia 🇮🇹 | [simonecolombani](https://github.com/simonecolombani)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
